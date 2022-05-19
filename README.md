@@ -13,5 +13,5 @@ back-end : (☞ﾟヮﾟ)☞ http://localhost:3000/api/v1/ ☜(ﾟヮﾟ☜)
 
 heroku (☞ﾟヮﾟ)☞ https://clubdetirofogueo.herokuapp.com/ ☜(ﾟヮﾟ☜)
 
-Trabajo en equipo, Nombres: -- Eliecer González -- Mixzio González -- Victor Molina
+
 
